@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Antonioxv
 - 👀 I’m interested in space
-- 🌱 I’m currently learning data analysis
+- 🌱 I’m currently learning database
 - 💞️ I’m looking to collaborate on ...
-- 📫 @antonioxv@hust.edu.cn
+- 📫 @antonioxv@foxmail.com
 
 <!---
 Antonioxv/Antonioxv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
