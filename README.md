@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Antonioxv
 - 👀 I’m interested in space
-- 🌱 I’m currently learning database
+- 🌱 I’m currently learning llm
 - 💞️ I’m looking to collaborate on ...
 - 📫 @antonioxv@foxmail.com
 
